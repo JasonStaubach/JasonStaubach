@@ -1,5 +1,11 @@
 ### Hi there 👋
 I'm Jason Staubach, a Fullstack Developer who graduated from App Academy
+
+I'm currently working on a Spotify-like app
+
+I am looking for new opportunites
+
+Ask me anything, reach out at jbstaubach@gmail.com
 <!--
 **JasonStaubach/JasonStaubach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
