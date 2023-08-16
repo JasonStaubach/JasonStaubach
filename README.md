@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jason Staubach, a Fullstack Developer who graduated from App Academy
+I'm [Jason Staubach](https://jasonstaubach.netlify.app/), a Fullstack Developer who graduated from App Academy 
 
 I am currently working on a Spotify-like app
 
