@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jason Staubach, a Fullstack Developer who graduated from App Academy
 
-I'm currently working on a Spotify-like app
+I am currently working on a Spotify-like app
 
 I am looking for new opportunites
 
