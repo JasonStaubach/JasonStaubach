@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Jason Staubach, a Fullstack Developer who graduated from App Academy
 <!--
 **JasonStaubach/JasonStaubach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
